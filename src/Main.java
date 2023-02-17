@@ -6,3 +6,6 @@ public class Main {
         System.out.println("Стоимость билета:" + amount);
         System.out.println("Начисленно бонусных миль:" + bonus);
 
+
+    }
+}
